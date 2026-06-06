@@ -1,0 +1,43 @@
+body{
+	background: #e9ecef;
+}
+
+
+.form{
+	padding: 6%;
+	text-align: left;
+}
+
+.form input{
+	display: flex;
+	width: 70%;
+	height: 5%;
+	margin-bottom: 2%;
+}
+
+
+.form label{
+	text-align: left;
+}
+
+h1{
+	font-weight: bold;
+}
+
+button{
+	padding: 10px;
+	color: #2c3e50;
+	background-color: white;
+	border-radius: 10px;
+	border: 2px solid #2c3e50;
+	font-size: 90%;
+	font-weight: bold;
+	margin-bottom: 4%;
+	text-decoration: none;
+	margin-right: 4%;
+}
+
+button:hover{
+	background-color: #2c3e50;
+	color: white;
+}
